@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="podatci">
+        <item>Proljetna</item>
+        <item>Mediteran</item>
+        <item>Azurna</item>
+        <item>Ljetna</item>
+        <item>Večernja</item>
+    </string-array>
+</resources>
